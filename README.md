@@ -1,4 +1,4 @@
-### Olá, meu nome é Hiran Whites e sou acadêmico de Sistemas da Informação 👋
+### Olá, meu nome é Hiran Whites👋
 ##
 <div style="display: inline_block">
     <h3>Conhecimento</h3>
