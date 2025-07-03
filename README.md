@@ -1,4 +1,4 @@
-### Olá, meu nome é Hiran Whites👋
+### Olá, meu nome é Hiran👋
 ##
 <div style="display: inline_block">
     <h3>Conhecimento</h3>
